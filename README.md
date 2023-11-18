@@ -30,7 +30,7 @@ To simulate the Pre Processing for 3D printing.
 ### d. Path Planning:
  Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
+![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7 )
 
  ●	All the processes related to pre-processing will be shown on the screen.<br>
  ●	Select CAD file preparation from the visible list.<br>
@@ -39,7 +39,7 @@ To simulate the Pre Processing for 3D printing.
  ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.<br>
 
 ### OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
+<img src=https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da width=450 height=450>
 ### Explanation(STEP-1):
 Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
 
@@ -54,7 +54,7 @@ Use a 3D modeling software that supports the STL file format. Some popular optio
 
 Once your model is ready, export it to the STL file format. In your chosen 3D modeling software, look for an option to export or save the model as an STL file. You may be asked to specify the file name and location for the exported STL file.
 
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
+<img src=https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb width=450 height=450>
 
 ### Explanation(STEP-3):
 Orientation plays a crucial role in the pre-processing stage of 3D printing. Choosing the right orientation for your 3D model can significantly impact the quality, strength, and overall success of your print.
@@ -68,7 +68,7 @@ Slicing software often provides options to adjust support parameters. These para
 
 Once you are satisfied with the support structures, generate the final sliced file that includes the model and the support structures. This file is then sent to the 3D printer for the printing process.
 
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+<img src=https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54 width=450 height=450>
 
 ### Explanation(STEP-5):
 It involves taking a 3D model, dividing it into layers, and generating the instructions that the 3D printer will use to create each layer.Start by importing your 3D model into slicing software. This software takes various file formats, such as STL or OBJ, and prepares the model for printing.Determine the slicing parameters, which include settings like layer height, infill density, print speed, and shell thickness. These settings define the quality, strength, and speed of the print. Higher layer heights and infill densities result in faster but less detailed prints, while lower layer heights and higher infill densities produce more detailed and stronger prints at the cost of longer print times and increased material usage.Save the sliced file in a format compatible with your 3D printer, such as G-code.
