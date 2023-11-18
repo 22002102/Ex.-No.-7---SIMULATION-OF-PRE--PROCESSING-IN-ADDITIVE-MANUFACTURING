@@ -40,6 +40,7 @@ To simulate the Pre Processing for 3D printing.
 
 ### OUTPUT:
 <img src=https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da width=450 height=450>
+
 ### Explanation(STEP-1):
 Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
 
